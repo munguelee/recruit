@@ -12,13 +12,13 @@
 - 마이뮤직테이스트의 프론트엔드 개발자로서, 여러분은 다양한 클라이언트 프레임워크와 플러그인들을 응용 또는 필요한 라이브러리들을 개발하며, 전 세계 30개국 넘게 서비스되는 웹 어플리케이션을 함께 만들어 나갈 것입니다.
 
 # 업무 소개(FE)
-- React를 사용하여 새로운 MyMusicTaste Web application을 만듭니다.
+- React를 사용하여 MyMusicTaste Web application을 만듭니다.
 - 메인 서비스와 함께 팀 사이트, 블로그 등을 관리합니다.
 - 다양한 최신 스택을 효율적으로 활용하여 즐겁게 개발합니다.
     - Typescript, Babel, PostCSS(Autoprefixr, CSS Modules), Storybook, Webpack
-    - React, Redux, RxJS, RamdaJS, Jest, Enzyme, js-lingui
+    - React, Redux, MobX, RxJS, RamdaJS, Jest, Enzyme, js-lingui, styled-component 
     - Prettier, tslint
-- AWS를 사용하여 Microservice architecture를 만드는  Backend 개발자들과 함께 서비스를 설계합니다.
+- AWS를 사용하여 Microservice architecture를 만드는 Backend 개발자들과 함께 서비스를 설계합니다.
 - 단방향 Top-down/Waterfall 아닌, 최고의 UX/UI 팀과 적극적인 소통을 통해 멋진 제품을 완성합니다. 
 - 매주 정해진 시간에 Frontend 팀 코드 리뷰를 진행합니다.
 
